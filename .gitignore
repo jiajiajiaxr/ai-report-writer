@@ -1,0 +1,30 @@
+# API keys and secrets
+key.env
+*.env
+.env
+
+# Project data
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Reports
+last_report_id.txt
+REVIEW_STATE.json
+*.log
+
